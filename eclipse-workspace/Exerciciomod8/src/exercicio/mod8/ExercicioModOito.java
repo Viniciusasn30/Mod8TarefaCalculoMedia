@@ -9,11 +9,12 @@ public class ExercicioModOito {
 	}
 	
 	public static void operacoesNotas(){
-		int nota1 = 10 / 4;
-		double nota2 = 9.5 / 4 ;
-		double nota3 = 9.5 / 4;
-		int nota4 = 9 / 4;
-		double media1 = nota1 + nota2 + nota3 + nota4 ;
+		int nota1 = 10;
+		double nota2 = 9.5;
+		double nota3 = 9.5;
+		int nota4 = 9;
+		double nota5 = nota1 + nota2 + nota3 + nota4 ;
+		double media1 = nota5 / 4;
 
 		System.out.println("****Media**** ");
 
